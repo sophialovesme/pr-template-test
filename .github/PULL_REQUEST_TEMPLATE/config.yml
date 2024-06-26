@@ -1,0 +1,7 @@
+template_chooser:
+  enabled: true
+  default: 'default.md'
+  paths:
+    - 'bug_fix.md'
+    - 'to_dev.md'
+    - 'to_main.md'
